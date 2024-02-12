@@ -124,6 +124,4 @@ document.addEventListener('DOMContentLoaded', function() {
 
         localStorage.setItem('items', JSON.stringify(items)); // Armazena o objeto de itens atualizado no localStorage
     });
-
-    // Aqui você pode adicionar o código para exibir os itens armazenados no LocalStorage
 });
